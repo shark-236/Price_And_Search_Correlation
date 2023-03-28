@@ -1,4 +1,4 @@
-# Module_11_Challenge
+# Price And Search Correlation
 
 Goal: Using a company's stock prices, daily revenue information, and their user data (i.e. trends on Google), I will identify:  
 -Seasonality in trends and prices through visual depictions  
